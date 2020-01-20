@@ -22,3 +22,4 @@ export default Navbar;
 // }
 // tambahan komen baru
 // aku edit navbar ni
+//gue tbahin sesuati
